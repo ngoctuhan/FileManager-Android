@@ -3,6 +3,7 @@
 Mini project android : Manager File in stroge on Android OS 
 
 Auhthor: ngoctuhan (trung.hoang)
+
 Date: 14/07/2020
 
 # About The Project
