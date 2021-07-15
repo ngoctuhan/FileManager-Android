@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="example.javatpoint.com.optionmenu.MainActivity">
+
+    <item  android:id="@+id/item1"
+        android:title="Chọn"/>
+    <item  android:id="@+id/item2"
+        android:title="Sao chép "/>
+    <item  android:id="@+id/item3"
+        android:title="Di chuyển "/>
+
+    <item  android:id="@+id/item4"
+        android:title="Xoá"
+        app:showAsAction="withText"/>
+</menu>
