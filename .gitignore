@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Built application files
 *.apk
 *.aar
@@ -83,3 +84,6 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+=======
+/build
+>>>>>>> 922fa986cfac1cd226a27f843a31c076de56e57d
