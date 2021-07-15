@@ -26,7 +26,13 @@ Function:
 
 To use application, need android version >= 11.
 
+Link video demo: 
+
+Link file apk: 
+
 # Installation 
+
+
 
 # Contribute
 
