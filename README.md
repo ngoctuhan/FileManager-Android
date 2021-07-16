@@ -26,9 +26,9 @@ Function:
 
 To use application, need android version >= 11.
 
-Link video demo: 
+Link video demo: https://www.youtube.com/watch?v=MEkhnBr-iEU
 
-Link file apk: 
+Link file apk: https://drive.google.com/file/d/1K22cwHh9l78nZkU_VSDwDjimPT8_8wJU/view?usp=sharing
 
 # Installation 
 
